@@ -552,8 +552,20 @@ button:focus {
 .mb-light-purple {
     background-color: #93738c;
 }
+.mb-voilet{
+    background-color: #32a4a8
+}
 
+.mb-light-Blue{
+    background-color: #279ce6;
 
+}
+.mb-vlight-blue{
+    background-color: #6c318c;
+}
+.mb-vlight-purple{
+    background-color: #3937b8;
+}
 
 /*Percentage Classes */
 
